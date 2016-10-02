@@ -1,0 +1,37 @@
+Tasks: 
+1)implement hashtable with open addressing to deal with collisions (try inserts and some searching)
+
+
+1) Arrays: 
+
+	int[] tempValues = Arrays.copyOf(values, values.length);
+	List<Integer> buckets=new ArrayList<Integer>();
+	int[] tempValues = Arrays.stream(buckets)
+						.flatMap(bucket -> bucket.stream()).mapToInt(v -> v)
+						.toArray();
+	List<Integer> left=new ArrayList<>();				
+	int[] leftResult=left.stream().mapToInt(v->v).toArray();
+	int[] left = Arrays.copyOfRange(values, 0, middleIndex);
+	
+2) Strings/chars/text
+
+    String->String[]
+	String[] msg = message.chars().mapToObj(c -> (char) c + "")
+				.toArray(String[]::new);
+				
+    char b='a'+1
+    b=='b'
+    String strB=b+"";
+  
+3) Math
+
+	All combinations: 
+	n=3 (2^3-1)
+	0, 1, 0 1, 2, 0 2, 1 2, 1 2 3
+	for (int i = 1; i < (1 << N); i++) {
+			for (int j = 0; j < N; j++) {
+				if (((i >> j) & 1) == 1) {
+				}
+			}
+		}
+	}

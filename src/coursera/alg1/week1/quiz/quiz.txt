@@ -1,0 +1,75 @@
+
+
+
+
+Hint: given an integer x and a sorted array a[] of n distinct integers,
+ design a linear-time algorithm to determine if there exists two distinct indices i and j such that a[i]+a[j]==x.
+
+
+
+
+1)
+ex:
+n=3
+1 2 
+2 1
+1 3 <- here we can stop. All members connected 1,2 and 1,3.
+3 2
+
+n - members
+m - number of log entries
+
+members=Array[n]
+for(i<-0 until n){
+  members[i]=true
+}
+
+//when counter reaches zero all members will be connected
+counter=n
+//check if every member is mentioned in logs; if yes then all members are connected
+for(log<-logs){
+ m1,m2<-log
+ if(members[m1]==true){
+   members[m1]=false
+   counter-=1
+ if(members[m2]==true){
+   members[m2]=false
+   counter-=1
+ }
+ if(counter<=0){
+   //all members connected
+   break;
+ }
+}
+
+2) 
+
+3)
+
+Given a set of N integers S={0,1,...,N−1} a
+
+class MyStruct{
+
+	private int[] set;
+
+	public MyStruct(int[] set){
+		this.set=Arrays.sort(set);
+	}
+	
+	public void remove(int x){
+	}
+	
+	public int successor(int x){ 
+		int index=Arrays.binarySearch(set,x);
+		
+		
+		return set[index+1]
+	}
+	
+	
+}
+
+values=Array[n]
+
+
+
