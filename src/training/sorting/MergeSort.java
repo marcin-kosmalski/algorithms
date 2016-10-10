@@ -14,6 +14,43 @@ public class MergeSort {
 				1, 2 }));
 		assertArrayEquals(new int[] { 1, 2, 4, 5, 6 }, mergeSort(new int[] { 6,
 				5, 4, 2, 1 }));
+
+		int[] a = new int[] { 3, 6, 1, 2 };
+		sort(a, new int[] { 0, 0, 0, 0 }, 0, 3);
+		assertArrayEquals(new int[] { 1, 2, 3, 6 }, a);
+	}
+
+	public void sort(int[] a, int[] aux, int lo, int hi) {
+
+		if (hi <= lo) {
+			return;
+		}
+		int mid = lo + (hi - lo) / 2;
+
+		sort(a, aux, lo, mid);
+		sort(a, aux, mid + 1, hi);
+		merge(a, aux, lo, mid, hi);
+	}
+
+	public void merge(int[] a, int[] aux, int lo, int mid, int hi) {
+
+		for (int i = lo; i <= hi; i++) {
+			aux[i] = a[i];
+		}
+
+		int leftCnt = lo;
+		int rightCnt = mid + 1;
+		for (int c = lo; c <= hi; c++) {
+			if (leftCnt > mid) {
+				a[c] = aux[rightCnt++];
+			} else if (rightCnt > hi) {
+				a[c] = aux[leftCnt++];
+			} else if (aux[leftCnt] < aux[rightCnt]) {
+				a[c] = aux[leftCnt++];
+			} else {
+				a[c] = aux[rightCnt++];
+			}
+		}
 	}
 
 	public int[] mergeSort(int[] values) {
