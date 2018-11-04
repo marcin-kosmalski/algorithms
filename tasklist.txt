@@ -1,0 +1,13 @@
+
+https://leetcode.com/contest/weekly-contest-79/problems/bus-routes/
+https://leetcode.com/contest/weekly-contest-78/problems/chalkboard-xor-game/
+
+*)September Lunchtime task MATCH2(https://www.codechef.com/LTIME64B/problems/MATCH2) - solve
+*)study steiner tree
+	1)skienia - DONE
+	2)read ppt in /home/marcin/Desktop/coursera_alg1/an-steiner.ppt
+*)hamiltonian path
+	1)describe in ideone.com (look at solutions of https://leetcode.com/contest/weekly-contest-64/problems/cracking-the-safe/)
+*)study merge sort tree (https://www.geeksforgeeks.org/merge-sort-tree-smaller-or-equal-elements-in-given-row-range/)
+	1)describe in ideone.com (https://discuss.codechef.com/questions/94448/merge-sort-tree-tutorial)
+*)study https://www.geeksforgeeks.org/next-greater-element/
