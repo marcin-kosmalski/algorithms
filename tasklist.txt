@@ -1,7 +1,6 @@
 
 3 Tasks: https://code.google.com/codejam/contest/5374486/dashboard
 
-https://leetcode.com/contest/weekly-contest-79/problems/bus-routes/
 https://leetcode.com/contest/weekly-contest-78/problems/chalkboard-xor-game/
 
 *)September Lunchtime task MATCH2(https://www.codechef.com/LTIME64B/problems/MATCH2) - solve
