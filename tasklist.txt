@@ -1,6 +1,10 @@
 
 3 Tasks: https://code.google.com/codejam/contest/5374486/dashboard
 
+https://discuss.codechef.com/questions/140110/appy-loves-one-hmappy1-video-editorial
+https://discuss.codechef.com/questions/140141/hmappy1-video-editorial
+
+
 https://leetcode.com/contest/weekly-contest-78/problems/chalkboard-xor-game/
 
 *)September Lunchtime task MATCH2(https://www.codechef.com/LTIME64B/problems/MATCH2) - solve
