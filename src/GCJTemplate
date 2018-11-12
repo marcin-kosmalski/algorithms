@@ -1,0 +1,71 @@
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
+import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
+public class Solution1 {
+
+	public static void main(String[] args) throws Exception {
+		File file = Paths.get("input.txt").toFile();
+		if (file.exists()) {
+			System.setIn(new FileInputStream(file));
+		}
+		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+		int t = Integer.valueOf(reader.readLine().trim());
+
+		int caseCounter = 0;
+
+		while (t-- > 0) {
+			caseCounter++;
+			String output = "Case #" + caseCounter + ": ";
+
+			int n = Integer.valueOf(reader.readLine().trim());
+			long[] values = Arrays.stream(reader.readLine().trim().split(" ")).mapToLong(v -> Long.valueOf(v))
+					.toArray();
+
+			
+			Arrays.sort(values);
+
+			Map<Long, Integer> map = new HashMap<>();
+
+			map.put(values[0] * values[1], 1);
+
+			int zn=0;
+			for(long v:values) {
+				if(v==0) {
+					zn++;
+				}
+			}
+			
+			long sc=0;
+			if(zn>2) {
+				sc=zn*(zn-1)/2;
+			}
+			
+			long c =sc*(values.length-zn);
+			for (int i = 2; i < values.length; i++) {
+				if (map.containsKey(values[i])) {
+					c += map.get(values[i]);
+				}
+				for (int j = i - 1; j >= 0; j--) {
+					long r = values[j] * values[i];
+					if (map.containsKey(r)) {
+						map.put(r, map.get(r) + 1);
+					} else {
+						map.put(r, 1);
+					}
+				}
+			}
+			//System.out.println(output + bf(values));
+		//	System.out.println(output + c+":"+bf(values));
+			System.out.println(output + c);
+		}
+	}
+
+}
