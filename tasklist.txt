@@ -2,6 +2,9 @@
 3 Tasks: https://code.google.com/codejam/contest/5374486/dashboard
 
 https://discuss.codechef.com/questions/140110/appy-loves-one-hmappy1-video-editorial
+- assign ballons to the most expensive exchanges - to the highest b values 
+- order by b values 
+
 https://discuss.codechef.com/questions/140141/hmappy1-video-editorial
 https://discuss.codechef.com/questions/140140/chhappy-video-editorial
 https://discuss.codechef.com/questions/140139/prdrg-video-editorial
