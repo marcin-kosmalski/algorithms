@@ -6,7 +6,6 @@
 - assign ballons to the most expensive exchanges - to the highest b values 
 - order by b values 
 *)https://discuss.codechef.com/questions/140141/hmappy1-video-editorial
-*)https://discuss.codechef.com/questions/140140/chhappy-video-editorial
 *)https://discuss.codechef.com/questions/140139/prdrg-video-editorial
 *)https://discuss.codechef.com/questions/140089/chftired-video-editorial
 
@@ -24,3 +23,5 @@
 *)study merge sort tree (https://www.geeksforgeeks.org/merge-sort-tree-smaller-or-equal-elements-in-given-row-range/)
 	1)describe in ideone.com (https://discuss.codechef.com/questions/94448/merge-sort-tree-tutorial)
 *)study https://www.geeksforgeeks.org/next-greater-element/
+
+*)https://discuss.codechef.com/questions/140140/chhappy-video-editorial-DONE
