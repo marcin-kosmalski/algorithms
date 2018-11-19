@@ -3,8 +3,6 @@
 
 *)november cookoff ABGAME
 *)https://discuss.codechef.com/questions/140110/appy-loves-one-hmappy1-video-editorial
-- assign ballons to the most expensive exchanges - to the highest b values 
-- order by b values 
 *)https://discuss.codechef.com/questions/140141/hmappy1-video-editorial
 *)https://discuss.codechef.com/questions/140139/prdrg-video-editorial
 *)https://discuss.codechef.com/questions/140089/chftired-video-editorial
