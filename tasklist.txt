@@ -2,11 +2,7 @@
 
 
 *)november cookoff ABGAME
-*)https://discuss.codechef.com/questions/140110/appy-loves-one-hmappy1-video-editorial
-*)https://discuss.codechef.com/questions/140141/hmappy1-video-editorial
 *)https://discuss.codechef.com/questions/140139/prdrg-video-editorial
-*)https://discuss.codechef.com/questions/140089/chftired-video-editorial
-
 *)https://leetcode.com/contest/weekly-contest-78/problems/chalkboard-xor-game/
 
 *)3 Tasks: https://code.google.com/codejam/contest/5374486/dashboard
