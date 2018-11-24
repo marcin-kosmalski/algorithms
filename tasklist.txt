@@ -1,5 +1,6 @@
 
 *)november cookoff ABGAME
+*)https://leetcode.com/contest/weekly-contest-85/problems/new-21-game/
 *)https://www.codechef.com/problems/USF
 *)https://discuss.codechef.com/questions/140139/prdrg-video-editorial
 
