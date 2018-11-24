@@ -1,5 +1,5 @@
 
-
+*)november cookoff ABGAME
 *)https://www.codechef.com/problems/USF
 *)https://discuss.codechef.com/questions/140139/prdrg-video-editorial
 *)https://leetcode.com/contest/weekly-contest-78/problems/chalkboard-xor-game/
@@ -18,4 +18,4 @@
 *)study https://www.geeksforgeeks.org/next-greater-element/
 
 *)https://discuss.codechef.com/questions/140140/chhappy-video-editorial-DONE
-*)november cookoff ABGAME
+
