@@ -1,5 +1,4 @@
 
-*)https://www.codechef.com/problems/DIS
 *)https://www.codechef.com/problems/WNDR
 *)https://www.codechef.com/submit/ADAMTR - 2-SAT, GRAPH COLORING
 *)https://www.codechef.com/problems/ADAPWNS
@@ -18,6 +17,7 @@
 
 
 
+*)https://www.codechef.com/problems/DIS-DONE
 *)September Lunchtime task MATCH2(https://www.codechef.com/LTIME64B/problems/MATCH2) - solve
 *)study steiner tree
 	1)skienia - DONE
