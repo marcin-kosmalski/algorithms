@@ -1,7 +1,7 @@
 
 *)https://www.codechef.com/problems/WNDR
 *)https://www.codechef.com/submit/ADAMTR - 2-SAT, GRAPH COLORING
-*)https://www.codechef.com/problems/ADAPWNS
+
 
 
 *)https://leetcode.com/contest/weekly-contest-85/problems/new-21-game/
@@ -16,7 +16,7 @@
 
 
 
-
+*)https://www.codechef.com/problems/ADAPWNS-DONE
 *)https://www.codechef.com/problems/DIS-DONE
 *)September Lunchtime task MATCH2(https://www.codechef.com/LTIME64B/problems/MATCH2) - solve
 *)study steiner tree
