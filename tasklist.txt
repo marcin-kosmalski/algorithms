@@ -1,6 +1,7 @@
 
 *)https://www.codechef.com/problems/WNDR
 *)https://www.codechef.com/submit/ADAMTR - 2-SAT, GRAPH COLORING
+*)https://discuss.codechef.com/questions/145398/guessrt-editorial
 
 
 
