@@ -1,7 +1,7 @@
 till 49 (inclusive) only theory
 
 29 - dfs - DONE
-33 - 
+33 - traversing graph - DONE
 3 - 
 42 - 
 56 - 
