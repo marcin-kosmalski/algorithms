@@ -1,6 +1,5 @@
 
 
-*)https://leetcode.com/contest/weekly-contest-85/problems/new-21-game/
 *)analysis kickstart prep task 3 https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/0000000000058a56
 *)https://www.codechef.com/submit/ADAMTR - 2-SAT, GRAPH COLORING
 *)https://discuss.codechef.com/questions/145398/guessrt-editorial
