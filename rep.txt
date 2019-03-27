@@ -8,8 +8,8 @@ till 49 (inclusive) only theory
 41 - heapsort DONE
 7 - mutex, lock ... -DONE
 52 - leetcode - DONE
-62 - 
-26 - 
+62 - leetcode -DONE
+26 - graph cycle detection
 58 - 
 21 - 
 30 - 
