@@ -9,14 +9,14 @@ till 49 (inclusive) only theory
 7 - mutex, lock ... -DONE
 52 - leetcode - DONE
 62 - leetcode -DONE
-26 - graph cycle detection
-58 - 
-21 - 
-30 - 
-38 - 
-5 - 
-16 - 
-44 - 
+26 - graph cycle detection -DONE
+58 - leet code -DOEN
+21 - top sort DONE
+30 - flood fill DONE
+38 - hash function -DONE
+5 - segment tree DONE
+16 - kruskal DONE
+44 - insert sort -DONE
 36 - 
 19 - 
 71 - 
