@@ -19,7 +19,7 @@ till 49 (inclusive) only theory
 44 - insert sort - DONE
 36 - linear probing - DONE
 19 - 
-71 - 
+71 - codechef - DONE
 54 - 
 23 - 
 65 - 
