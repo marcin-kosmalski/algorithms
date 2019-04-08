@@ -18,7 +18,7 @@ till 49 (inclusive) only theory
 16 - kruskal DONE
 44 - insert sort - DONE
 36 - linear probing - DONE
-19 - 
+19 - Dijkstra - DONE
 71 - codechef - DONE
 54 - 
 23 - 
