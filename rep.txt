@@ -20,9 +20,9 @@ till 49 (inclusive) only theory
 36 - linear probing - DONE
 19 - Dijkstra - DONE
 71 - codechef - DONE
-54 - 
-23 - 
-65 - 
+54 - !!!!!!!!!!!!!!!
+23 - hamiltionan path/cycle
+65 - leetcode - DONE
 68 - 
 4 - 
 10 - 
