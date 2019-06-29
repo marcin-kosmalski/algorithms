@@ -25,7 +25,7 @@ till 49 (inclusive) only theory
 65 - leetcode - DONE
 68 - 
 4 - shunting yard - DONE
-10 - 
+10 - np-complete - DONE
 59 - 
 13 - 
 14 - 
