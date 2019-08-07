@@ -1,5 +1,23 @@
 
-1)
+1)spring boot
+https://docs.spring.io/spring-boot/docs/2.1.7.RELEASE/reference/html/
+2)spring cloud
+3)java 8
+4)java 9
+5)java 10
+6)java 11
+7)design patterns, solid, OOP
+8)java concurrent programming
+9)java functional programming
+10)terraform
+11)git
+12)ansible
+13)bash
+14)javascript
+15)oauth
+16)openid
+
+
 
 
 
